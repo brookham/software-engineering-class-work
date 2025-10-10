@@ -1,0 +1,3 @@
+1. dont repeat yourself
+2. no, completing one task doesnt specifically mean having only one statement, it often takes multiple statements to complete one thing, as long as it doesnt banch out into multiple other things
+3. if the function is well named and you know what it does when it is called you dont really have to go read it to know what the code is doing, and it will also help them in the long run for lesss jumbled reading over all and easier maintnance, especially if they want to use that function again
